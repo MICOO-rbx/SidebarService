@@ -1,6 +1,6 @@
 # SidebarService
 
-SidebarService is an essential module for every EXE app developer.
+SidebarService is an essential module for every EXE6 app developer.
 
 Features:
 
