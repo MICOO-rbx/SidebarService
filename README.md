@@ -2,8 +2,5 @@
 
 SidebarService is an essential module for every EXE6 app developer.
 
-Features:
-
-Creates categories.
-Creates buttons to open a page.
-Opens any available page (taken from MainModule).
+Sidebar is a module for building the side panel of EXE6. In a few lines of code it adds categories and buttons with icons and labels, linking each button to its own page.
+![Sidebar](sidebar.jpg)
